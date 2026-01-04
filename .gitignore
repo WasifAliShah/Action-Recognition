@@ -27,10 +27,6 @@ build/
 dist/
 *.bak
 
-# Weights and checkpoints
-backend/weights/*.pt
-*.pth
-*.ckpt
 
 # Data and datasets (avoid committing large assets)
 datasets/
